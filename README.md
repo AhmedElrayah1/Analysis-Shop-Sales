@@ -6,7 +6,13 @@ The goal is to highlight key business KPIs and provide actionable recommendation
 
 ---
 
+<img src="assets/Shop Sales Data_W1 S1 - Excel 2025-09-24 12_07_58 PM.png" alt="Cookies Dashboard Banner" width="1000" height="500">
+
+
+
 ## 🛠 Steps Performed
+
+
 
 ### 1️⃣ Data Cleaning
 - Handled *missing values* to ensure data completeness.  
